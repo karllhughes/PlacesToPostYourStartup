@@ -1,0 +1,8 @@
+{
+  "name": "PlacesToPostYourStartup",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "xml2js": "^0.4.19"
+  }
+}
